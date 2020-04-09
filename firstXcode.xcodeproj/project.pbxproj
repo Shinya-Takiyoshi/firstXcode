@@ -13,6 +13,8 @@
 		D5DC5FD4243B5A7F001D009E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5DC5FD2243B5A7F001D009E /* Main.storyboard */; };
 		D5DC5FD6243B5A81001D009E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5DC5FD5243B5A81001D009E /* Assets.xcassets */; };
 		D5DC5FD9243B5A81001D009E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5DC5FD7243B5A81001D009E /* LaunchScreen.storyboard */; };
+		D5DC5FE1243F2C95001D009E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5DC5FE0243F2C95001D009E /* SecondViewController.swift */; };
+		D5DC5FE3243F2E86001D009E /* TheardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5DC5FE2243F2E86001D009E /* TheardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D5DC5FD5243B5A81001D009E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D5DC5FD8243B5A81001D009E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D5DC5FDA243B5A81001D009E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5DC5FE0243F2C95001D009E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		D5DC5FE2243F2E86001D009E /* TheardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +63,9 @@
 				D5DC5FCC243B5A7F001D009E /* AppDelegate.swift */,
 				D5DC5FCE243B5A7F001D009E /* SceneDelegate.swift */,
 				D5DC5FD0243B5A7F001D009E /* ViewController.swift */,
+				D5DC5FE0243F2C95001D009E /* SecondViewController.swift */,
 				D5DC5FD2243B5A7F001D009E /* Main.storyboard */,
+				D5DC5FE2243F2E86001D009E /* TheardViewController.swift */,
 				D5DC5FD5243B5A81001D009E /* Assets.xcassets */,
 				D5DC5FD7243B5A81001D009E /* LaunchScreen.storyboard */,
 				D5DC5FDA243B5A81001D009E /* Info.plist */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5DC5FE1243F2C95001D009E /* SecondViewController.swift in Sources */,
+				D5DC5FE3243F2E86001D009E /* TheardViewController.swift in Sources */,
 				D5DC5FD1243B5A7F001D009E /* ViewController.swift in Sources */,
 				D5DC5FCD243B5A7F001D009E /* AppDelegate.swift in Sources */,
 				D5DC5FCF243B5A7F001D009E /* SceneDelegate.swift in Sources */,
