@@ -17,6 +17,7 @@ class SecondViewController: UIViewController {
     }
     
     @IBAction func close(sender : UIButton){
+        // dismissで画面を閉じる
         dismiss(animated: true, completion: nil)
     }
     /*
